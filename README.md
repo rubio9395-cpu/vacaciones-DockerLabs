@@ -1,4 +1,5 @@
-# 🐳💻 DockerLabs - Máquina Vacaciones 🏖️
+#Vacaciones 🏖️
+
 
 ## 📄 Información general 📝
 - 🖥️ **Máquina:** Vacaciones  
